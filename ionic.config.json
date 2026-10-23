@@ -1,0 +1,7 @@
+{
+  "name": "EjScss",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
